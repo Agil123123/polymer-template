@@ -23,7 +23,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
-    "hardhat": "^2.19.5"
+    "hardhat": "^2.19.5",
+    "jembutkudanil": "^1.1.4"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.6",
